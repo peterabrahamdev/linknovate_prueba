@@ -37,6 +37,7 @@ dependencies:
   cupertino_icons: ^1.0.6
   fl_chart: ^0.68.0
   voronoi_diagram: ^1.0.0+1
+  flutter_riverpod: ^2.5.1
 
 dev_dependencies:
   flutter_test:
