@@ -1371,4 +1371,4 @@ const String jsonData = '''{
 }
 ''';
 
-Map<String, dynamic> data = jsonDecode(jsonData);
+Map<String, dynamic> foamTreeParsedData = jsonDecode(jsonData);
