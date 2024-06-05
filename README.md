@@ -1,17 +1,14 @@
 # linknovate_prueba
 
-A new Flutter project.
+You can find the main code in the ```lib``` folder.
 
-## Getting Started
+## Important
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# linknovate_prueba
+As there is no proper and working foam tree / Voronoi diagram package for Flutter, unfortunately, I couldn't deliver any expected results.
+What you can find in the code and in this Github repo is:
+* Clean and maintainable code
+* Use of conventional commit messages (for SemVer and Changelogs)
+* Use of separate state management logic (Flutter Riverpod)
+* Json data parsing and using
+* OOP principles
+* (And here a bit of markdown)
