@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:linknovate_prueba/widgets/voronoi_diagram.dart';
 
 class DataAnalyticsScren extends StatefulWidget {
   const DataAnalyticsScren({super.key});
@@ -11,14 +12,7 @@ class _DataAnalyticsScrenState extends State<DataAnalyticsScren> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: Row(
-        children: [
-          Container(
-            color: Colors.white,
-            
-          )
-        ],
-      ),
+      body: VoronoiDiagram(),
     );
   }
 }
